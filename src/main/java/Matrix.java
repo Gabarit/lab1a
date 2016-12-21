@@ -1,7 +1,3 @@
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.ToString;
-
 /**
  * Created by Silver on 20.12.2016.
  */

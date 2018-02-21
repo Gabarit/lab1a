@@ -12,11 +12,13 @@ In this example were used popular Java unit-test framework - JUnit.
 The task was to write an app, which will transform matrix by sorting it's rows in reverce order.
 
 # Toolbox
-*Unit tests: [JUnit 4.0]()
-*Bulding: [Maven]
-*
-*CI Server: [TravisIO]
+  - Unit tests: [JUnit 4.0]()
+  - Build automation: [Maven]()
+  - 
+  - CI Server: [TravisIO]() [![Build Status](https://travis-ci.org/Gleb-Dovzhenko/unit-testing-for-matrix-transforming.svg?branch=master)](https://travis-ci.org/Gleb-Dovzhenko/unit-testing-for-matrix-transforming)
+
 
 
 # Test coverage
 <a href='https://coveralls.io/github/Gabarit/lab1a?branch=master'><img src='https://coveralls.io/repos/github/Gabarit/lab1a/badge.svg?branch=master' alt='Coverage Status' /></a>
+# Building process
